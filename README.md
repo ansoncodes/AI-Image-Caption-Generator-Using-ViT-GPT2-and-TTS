@@ -1,6 +1,6 @@
 # Image Caption Generator with Text-to-Speech
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/image-caption-generator/blob/main/image_caption_generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ansoncodes/image-caption-generator/blob/main/image_caption_generator.ipynb)
 
 A Python application that generates descriptive captions for uploaded images using Vision Transformer (ViT) and GPT-2 models, with integrated text-to-speech functionality to read the captions aloud.
 
